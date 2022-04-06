@@ -1,0 +1,5 @@
+the file Matrix.v is a modified version of Matrix.v from the QuantumLib repository (found here https://github.com/inQWIRE/QuantumLib/)
+
+the QuantumLib library is licensed under the MIT License, a copy of which can be found in this folder as LICENSE
+
+A few definitions in Matrix.v and Hamming.v were taken from my Programming Proofs class, taught by Professor Robert Rand
